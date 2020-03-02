@@ -1,0 +1,9 @@
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\bin\Debug\netstandard2.0\GroceryMarketLibrary.deps.json
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\bin\Debug\netstandard2.0\GroceryMarketLibrary.dll
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\bin\Debug\netstandard2.0\GroceryMarketLibrary.pdb
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\obj\Debug\netstandard2.0\GroceryMarketLibrary.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\obj\Debug\netstandard2.0\GroceryMarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\obj\Debug\netstandard2.0\GroceryMarketLibrary.AssemblyInfoInputs.cache
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\obj\Debug\netstandard2.0\GroceryMarketLibrary.AssemblyInfo.cs
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\obj\Debug\netstandard2.0\GroceryMarketLibrary.dll
+C:\Users\harry\Documents\VoyagerExercise\GroceryMarketLibrary\GroceryMarketLibrary\obj\Debug\netstandard2.0\GroceryMarketLibrary.pdb
